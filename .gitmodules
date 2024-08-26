@@ -1,3 +1,6 @@
 [submodule "Viral-Visor-Frontend"]
 	path = Viral-Visor-Frontend
 	url = https://github.com/husseinassidi/Viral-Visor-Frontend.git
+[submodule "Viral-Visor-Backend"]
+	path = Viral-Visor-Backend
+	url = https://github.com/husseinassidi/Viral-Visor-Backend.git
