@@ -1,0 +1,3 @@
+[submodule "Viral-Visor-Frontend"]
+	path = Viral-Visor-Frontend
+	url = https://github.com/husseinassidi/Viral-Visor-Frontend.git
